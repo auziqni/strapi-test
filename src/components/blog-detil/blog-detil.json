@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blog_detil_blog_detils",
+  "info": {
+    "displayName": "Blog detil"
+  },
+  "options": {},
+  "attributes": {
+    "author": {
+      "type": "string"
+    },
+    "createAt": {
+      "type": "date"
+    }
+  }
+}
